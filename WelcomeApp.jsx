@@ -1,6 +1,6 @@
 import Welcome from "./Fullstack/React/Welcome";
-function App()
+export default function App()
 {
   return (<Welcome/>);
 }
-export default App
+

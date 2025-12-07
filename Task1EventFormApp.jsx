@@ -2,7 +2,7 @@ import React from "react";
 import EventForm from "./Fullstack/React/EventForm";
 import bg from "./assets/bg.jpg"; // <<< Background image import
 
-function App() {
+export default function App() {
   return (
     <div style={{
       minHeight: "100vh",
@@ -19,4 +19,3 @@ function App() {
     </div>
   );
 }
-export default App;

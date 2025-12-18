@@ -1,5 +1,5 @@
 import React from "react";
-import Attendance from "./Fullstackproject/Sample/Attendance";
+import Attendance from "./Fullstack/Sample/Attendance";
 
 const App = () => {
   return (
